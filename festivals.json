@@ -1,0 +1,8 @@
+[
+  {"name": "শারদীয় দুর্গাপূজা", "tag": "আশ্বিন", "caption": "দেবী দুর্গার আরাধনা; বাংলার অন্যতম বড় ধর্মীয় ও সামাজিক উৎসব।", "image": "assets/img/festival-durga.jpg", "icon": "🪔"},
+  {"name": "মহালয়া", "tag": "পিতৃপক্ষের শেষ দিন", "caption": "দুর্গাপূজার সূচনা-ঘোষণার দিন; ঐতিহ্যগতভাবে বেতার-অনুষ্ঠানের সাথে যুক্ত।", "image": "assets/img/festival-mahalaya.jpg", "icon": "🪔"},
+  {"name": "কালীপূজা ও দীপাবলি", "tag": "কার্তিক", "caption": "অন্ধকারে আলোর উৎসব; দেবী কালীর আরাধনা।", "image": "assets/img/festival-kali.jpg", "icon": "🪔"},
+  {"name": "জন্মাষ্টমী", "tag": "ভাদ্র", "caption": "শ্রীকৃষ্ণের জন্মোৎসব।", "image": "assets/img/festival-janmashtami.jpg", "icon": "🪔"},
+  {"name": "সরস্বতী পূজা", "tag": "মাঘ", "caption": "বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা।", "image": "assets/img/festival-saraswati.jpg", "icon": "🪔"},
+  {"name": "রথযাত্রা", "tag": "আষাঢ়", "caption": "জগন্নাথ, বলভদ্র ও সুভদ্রার রথযাত্রা।", "image": "assets/img/festival-rath.jpg", "icon": "🪔"}
+]

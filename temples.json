@@ -1,0 +1,8 @@
+[
+  {"name": "কাশী বিশ্বনাথ মন্দির", "tag": "বারাণসী, ভারত", "caption": "শিবের অন্যতম পবিত্র জ্যোতির্লিঙ্গ-তীর্থ।", "image": "assets/img/temple-kashi.jpg", "icon": "🛕"},
+  {"name": "ঢাকেশ্বরী জাতীয় মন্দির", "tag": "ঢাকা, বাংলাদেশ", "caption": "দেবী ঢাকেশ্বরীর প্রধান ও ঐতিহ্যবাহী মন্দির।", "image": "assets/img/temple-dhakeshwari.jpg", "icon": "🛕"},
+  {"name": "যশোরেশ্বরী কালী মন্দির", "tag": "ঈশ্বরীপুর, যশোর", "caption": "প্রাচীন শক্তিপীঠ হিসেবে পরিচিত মন্দির।", "image": "assets/img/temple-jessore.jpg", "icon": "🛕"},
+  {"name": "দক্ষিণেশ্বর কালী মন্দির", "tag": "কলকাতা, ভারত", "caption": "১৮৫৫ সালে রাণী রাসমণির প্রতিষ্ঠিত মন্দির।", "image": "assets/img/temple-dakshineswar.jpg", "icon": "🛕"},
+  {"name": "জগন্নাথ মন্দির", "tag": "পুরী, ওড়িশা", "caption": "জগন্নাথ, বলভদ্র ও সুভদ্রার মন্দির; চারধাম তীর্থের একটি।", "image": "assets/img/temple-puri.jpg", "icon": "🛕"},
+  {"name": "কামাখ্যা মন্দির", "tag": "গুয়াহাটি, আসাম", "caption": "প্রধান শক্তিপীঠগুলোর একটি।", "image": "assets/img/temple-kamakhya.jpg", "icon": "🛕"}
+]

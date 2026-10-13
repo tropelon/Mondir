@@ -1,0 +1,8 @@
+[
+  {"name": "মহর্ষি বেদব্যাস", "tag": "ঋষি", "caption": "মহাভারত ও পুরাণ সংকলনের সাথে ঐতিহ্যগতভাবে যুক্ত মহর্ষি।", "image": "assets/img/rishi-vyasa.jpg", "icon": "🧘"},
+  {"name": "মহর্ষি বাল্মীকি", "tag": "ঋষি", "caption": "রামায়ণের রচয়িতা হিসেবে পরিচিত আদিকবি।", "image": "assets/img/rishi-valmiki.jpg", "icon": "🧘"},
+  {"name": "মহর্ষি কপিল", "tag": "ঋষি", "caption": "সাংখ্য দর্শনের ঐতিহ্যগত প্রবর্তক।", "image": "assets/img/rishi-kapila.jpg", "icon": "🧘"},
+  {"name": "মহর্ষি পতঞ্জলি", "tag": "ঋষি", "caption": "যোগসূত্রের রচয়িতা; অষ্টাঙ্গ যোগের ব্যাখ্যাকার।", "image": "assets/img/rishi-patanjali.jpg", "icon": "🧘"},
+  {"name": "মহর্ষি বশিষ্ঠ", "tag": "ঋষি", "caption": "ঋগ্বেদের সপ্তম মণ্ডলের সাথে যুক্ত প্রাচীন ঋষি।", "image": "assets/img/rishi-vashistha.jpg", "icon": "🧘"},
+  {"name": "মহর্ষি অগস্ত্য", "tag": "ঋষি", "caption": "ঋগ্বেদের কয়েকটি সূক্তের ঋষি হিসেবে পরিচিত।", "image": "assets/img/rishi-agastya.jpg", "icon": "🧘"}
+]

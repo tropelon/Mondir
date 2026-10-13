@@ -1,0 +1,9 @@
+[
+  {"name": "ঋগ্বেদ", "tag": "বেদ", "caption": "বিশ্বের অন্যতম প্রাচীন গ্রন্থ; দশ মণ্ডলে বিন্যস্ত সূক্তসমূহ।", "image": "assets/img/book-rigveda.jpg", "icon": "📜"},
+  {"name": "উপনিষদ", "tag": "বেদান্ত", "caption": "ব্রহ্ম, আত্মা ও মোক্ষ নিয়ে দার্শনিক আলোচনার গ্রন্থসমষ্টি।", "image": "assets/img/book-upanishad.jpg", "icon": "📜"},
+  {"name": "শ্রীমদ্ভগবদ্গীতা", "tag": "মহাভারত · ভীষ্মপর্ব", "caption": "কর্তব্য, ধর্ম ও কর্মযোগের আলোচনা; মহাভারতের অংশ।", "image": "assets/img/book-gita.jpg", "icon": "📜"},
+  {"name": "রামায়ণ", "tag": "আদিকাব্য", "caption": "বাল্মীকি-রচিত; রাম, সীতা ও লক্ষ্মণের কাহিনি।", "image": "assets/img/book-ramayana.jpg", "icon": "📜"},
+  {"name": "মহাভারত", "tag": "মহাকাব্য", "caption": "বেদব্যাস-ঐতিহ্যমণ্ডিত মহাকাব্য; ধর্ম, নীতি ও রাজনীতির আলোচনা।", "image": "assets/img/book-mahabharata.jpg", "icon": "📜"},
+  {"name": "যোগসূত্র", "tag": "যোগদর্শন", "caption": "মহর্ষি পতঞ্জলির রচনা; অষ্টাঙ্গ যোগের নির্দেশনা।", "image": "assets/img/book-yogasutra.jpg", "icon": "📜"},
+  {"name": "চরকসংহিতা", "tag": "আয়ুর্বেদ", "caption": "প্রাচীন আয়ুর্বেদ চিকিৎসাশাস্ত্রের গুরুত্বপূর্ণ গ্রন্থ।", "image": "assets/img/book-charaka.jpg", "icon": "📜"}
+]
